@@ -1,0 +1,20 @@
+{
+  "name": "chat",
+  "description": "angular socketIO",
+  "main": "app.js",
+  "authors": [
+    "winter"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "socket"
+  ],
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "~3.0.3",
+    "angular": "~1.2.5",
+    "angular-route": "~1.2.5",
+    "angular-moment": "~0.5.2"
+  }
+}
