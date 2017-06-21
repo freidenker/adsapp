@@ -8,7 +8,7 @@
   "keywords": [
     "angular"
   ],
-  "homepage": "../index.jsp",
+  "homepage": "../index.html",
   "dependencies": {
     "bootstrap": "~3.3.7",
     "angular": "~1.6.4",
