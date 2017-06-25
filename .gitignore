@@ -3,3 +3,4 @@
 .classpath
 target/
 src/main/webapp/js/bowercomponents/
+src/main/webapp/js/lib/angular-1.6.1/
